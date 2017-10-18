@@ -1,0 +1,1 @@
+include ':app', ':kaoshi', ':sharedemo', ':wandemo'
